@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek 网页版对话",
+    "description": "把已登录的 chat.deepseek.com 网页版接入为模型提供商，让 agent 直接用网页版账号干活，而不消耗 API 额度。深度思考与联网搜索按模型可选。"
+  }
+}

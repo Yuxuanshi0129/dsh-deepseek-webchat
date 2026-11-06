@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek web chat",
+    "description": "Adds the signed-in chat.deepseek.com web chat as a model provider, so the agent can work on your web account instead of a metered API key. Deep thinking and the web search pass are available per model."
+  }
+}
