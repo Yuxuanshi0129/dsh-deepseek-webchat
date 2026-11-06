@@ -1,8 +1,12 @@
 {
   "name": "dsh-deepseek-web",
   "version": "0.1.0",
-  "private": true,
   "description": "Use the signed-in chat.deepseek.com web chat as a DeepSeek Harness model provider.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yuxuanshi0129/dsh-deepseek-webchat.git"
+  },
+  "keywords": ["deepseek", "deepseek-harness", "dsh", "plugin", "llm", "chat"],
   "type": "module",
   "license": "MIT",
   "main": "index.js",
@@ -19,6 +23,7 @@
     "icon.svg",
     "cordis.patch.yml",
     "THIRD_PARTY_NOTICES.md",
+    "LICENSE",
     "README.md"
   ],
   "dsh": {
