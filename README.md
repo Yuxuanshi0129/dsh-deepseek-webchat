@@ -47,13 +47,13 @@ $env:DEEPSEEK_WEB_TOKEN = "<64-char userToken>"
 ## Install from GitHub
 
 ```powershell
-dsh plugin --profile <profile> add "https://github.com/<you>/dsh-deepseek-web"
+dsh plugin --profile <profile> add "https://github.com/Yuxuanshi0129/dsh-deepseek-webchat"
 ```
 
 Or clone it and link the directory:
 
 ```powershell
-git clone https://github.com/<you>/dsh-deepseek-web
+git clone https://github.com/Yuxuanshi0129/dsh-deepseek-webchat
 cd dsh-deepseek-web
 pnpm install --config.node-linker=hoisted
 dsh plugin --profile <profile> add .
